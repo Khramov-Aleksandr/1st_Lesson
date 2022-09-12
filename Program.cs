@@ -49,14 +49,14 @@ namespace _1st_Lesson
             #endregion
 
             #region Chars
-            char letter = 'a';
+            char letter = 'a'; 
             char digit = '0';
             char symbol = '+';
 
             Console.WriteLine($"Zero is " + digit); 
             // тут идет преобразование символа в строку, так как строка - это набор символов
             #endregion
- 
+ // 2345//
                 
             #region Booleans
             bool t = true, f;
